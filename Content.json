@@ -1,0 +1,717 @@
+{
+  "welcome" : "<p>Welcome to the Disciple course. This is one of a series of courses designed to bring people Freedom in Christ.</p><p>This newly modified App is intended to accompany the course. It provides extra information and films to supplement the course. Plus Daily Devotionals written by Neil Anderson.</p><p>The Disciple course is specifically built for 18-30 years old.</p><p>Please be aware that there is now a standalone <b>StrongHold Buster App</b>. A link to the download page can be found in the <i>About Us</i> tab." ,
+
+  "session" : "<p>Welcome to the Disciple course. This is one of a series of courses designed to bring people Freedom in Christ.</p><p>The App is intended to accompany the course. It provides extra information and films to supplement the course. Plus Daily Devotionals written by Neil Anderson.</p><p>The Disciple course is specifically built for 18-30 years old</p><p>Click on the \"i\" panel on the other options for further information." ,
+
+  "course"  : "The Disciple course is specifically built for 18-30 years old.\n\n 90% of church leaders agree discipling 18-30s is one of their top two mission objectives, but only 11% feel equipped to do it. \n\nDisciple changes that in an instant! Relevant, raw and real, we've seen it not only help transform the lives of young adults, but also whole churches as they connect with more and more of this awesome generation." ,
+ "films"  : "" ,
+    "truths"   : "<p>These three lists contain key truths from the Bible concerning who you are and what you have in Christ, and what God Himself is really like.</p><p>We encourage you to declare them confidently, ideally speaking out loud. This will help you connect with the truths in your heart not just your head.</p><p> Renewing your mind is not an instant process but typically takes about six weeks. If you recognize some truths that don't feel true to you, we recommend committing yourself to believe them by declaring them every day for 40 days.</p>",
+
+  "devotionals"   : "<p>These devotionals were written by Neil Anderson and his late wife Joanne. Neil is a best-selling author, founder of Freedom In Christ Ministries, and co-author with Steve Goss of the <i>Freedom In Christ Course </i>.</p><p>We suggest using them after the course has finished to remind you of the truths you have learned - there's one for each day.</p><p>Adapted from <i>Daily In Christ</>, published by Harvest House Publishers and used by permission.</p>",
+
+ "about"   : "<p>Join Us On An Exciting Mission Of Transformation!</p><p>Freedom In Christ Ministries serves the Church and its leaders to bring transformation to every nation and generation by helping them equip all believers to live as free and fruitful disciples of Christ. We are largely an army of volunteers who give, pray, and spread the word.</p><p>We've made this app available free of charge - if you are able to express your appreciation by supporting us, we would love that. But, of course, there's no pressure whatsoever.</p>",
+   "stronghold"   : "<p>A <b>Stronghold</b> is a deeply-rooted belief that is contrary to God's Word.</p>Use our Stronghold Buster to break free:</p><ul><li>Determine the lie</li><li>Write down what the effects on you are</li><li>Find as many Bible verses that state the truth and write these down</li><li>Write a prayer / declaration and pray this out loud every day for 40 days</li></ul></p>",
+
+  
+ "sessions": [
+    {
+      "index": 1,
+      "number": 1,
+      "title": "Your unwritten autobiography",
+      "paywall": false,
+      "video_id": "E1,E8",
+      "nuggets": [
+        {
+         "id": 1,
+          "title": "Hi!",
+          "content": "<h1>Hi!</h1>\n\n<p>\n  Welcome to <i>disciple</i>! This app will be your on-the-move companion as we\n  unpack together the amazing truths of who you really are, who God really is,\n  and the amazing plans that He has for you. Every day you will get a short\n  message to help you think a little more about your life, your freedom and your\n  purpose. The messages will be short and snappy so you can digest them on the\n  move or take longer to ponder them at home.\n</p>\n\n <p>\n  Each step has an introductory video. Check these out (you click on the image at the top of the Steps page).</p><p>Or click on this link: <a href=\"disciple:///videos/S1\" class=\"starter-film-link\">\n  Watch Session 1 Starter Film\n</a>"
+        },
+         {
+          "id": 2,
+          "title": "The Grand Plan",
+          "content": "<h1>The Grand Plan</h1>\n\n<blockquote class=\"scripture\">\n  \"For I know the plans I have for you,\" declares the Lord,\n  \"plans to prosper you and not to harm you, plans to give you hope and a\n  future.\"\n\n  <cite>Jeremiah 29:11</cite>\n</blockquote>\n\n<p>\n  Our lives can seem a little random at times. When we look back over our story\n  so far, sometimes it can be hard to see it travelling in any specific\n  direction.\n\n  Rather it can seem to be an unfathomable catalogue of events - some\n  good, some bad - that have steered us to where we are today. And yet\n  God makes it clear that he has a path and a plan for us and that they are\n  designed to give us real hope and a good future.\n</p>\n\n<p>\n  Take a moment to think about the key events in your story so far that have\n  brought you to where you are today.\n</p>\n"
+        },
+        {
+          "id": 3,
+          "title": "Predestined?",
+          "content": "<h1>Predestined?</h1>\n\n<blockquote class=\"scripture\">\n  For we are God's handiwork, created in Christ Jesus to do good works,\n  which God prepared in advance for us to do.\n\n  <cite>Ephesians 2:10</cite>\n</blockquote>\n\n<p>\n  Sometimes it can raise difficult questions when we stop to consider that God\n  has specific plans for us, particular things carefully prepared just for us.\n  We can wonder if we have any choice in the matter or whether our lives are set\n  on a course that we have no control over. Actually God always gives us a\n  choice. After all, His hope is for us to know and love Him and that is a\n  choice, an act of free will. God's amazing plans don't take away\n  our choices but that means that every decision we take has consequences. One\n  choice will take us another step along the amazing path that God has planned\n  for us. Another will take us further away from them.\n</p>\n"
+        },
+        {
+          "id": 4,
+          "title": "Open Arms",
+          "content": "<h1>Open Arms</h1>\n\n<blockquote class=\"scripture\">\n  \"But while he was still a long way off, his father saw him and was\n  filled with compassion for him; he ran to his son, threw his arms around him\n  and kissed him.\"\n\n  <cite>Luke 15:20</cite>\n</blockquote>\n\n<p>\n  It's astounding how a story told two thousand years ago in a completely\n  different culture can speak so powerfully into our own lives. And yet\n  Jesus' story about the son who went off the rails before returning to\n  his father does just that.\n</p>\n\n<p>\n  Today so many of us have either never really met God or find that we've\n  got so into life, partying, work, college, or just surviving, that we end up\n  turning our backs on Him. This story powerfully reassures us that whatever we\n  have done, whatever has been done to us, wherever we have been, He loves us\n  unconditionally and is ready to meet us with open, accepting arms.\n</p>\n\n<p>\n  This is a love so foreign to us it can be hard to grasp. Take another moment\n  to ponder this God - your Father - who is all loving, utterly\n  forgiving and filled with grace.\n</p>\n"
+        },
+        {
+          "id": 5,
+          "title": "Tooled Up",
+          "content": "<h1>Tooled Up</h1>\n\n<blockquote class=\"scripture\">\n  \"But the father said to his servants, 'Quick! Bring the best\n  robe and put it on him. Put a ring on his finger and sandals on his\n  feet\".\n\n  <cite>Luke 15:22</cite>\n</blockquote>\n\n<p>\n  Life can be tough. It's little wonder that our prayers are so often\n  about asking God to equip us to live it. We find ourselves asking him to tool\n  us up and sort out the mess that we're in. And yet one of the most\n  amazing facts about being a disciple of Jesus is that we already have\n  everything we need to get free, live this life and make it count.\n</p>\n\n<p>\n  The problem can be that we often don't know just what we already have\n  in Jesus or how to use it. I wonder how often God is there saying to us when\n  we pray, \"Actually I've already done that\" you already\n  have it\".\n</p>\n\n<p>\n  Throughout <i>disciple</i> we will be looking at just who we are and what we\n  have in Jesus and how we can make our lives count for something amazing.\n</p>\n"
+        },
+        {
+          "id": 6,
+          "title": "Unconditional",
+          "content": "<h1>Unconditional</h1>\n\n<p>\n  In the world, love so often comes with conditions. We can easily, therefore,\n  develop a default setting in our relationship with God of thinking that we\n  need somehow to earn His love. Yet there is absolutely nothing we can do to\n  earn it. Why? Because it is freely given. Nothing you have done or will ever\n  do can make God love you any more. Or any less. It's never about what\n  you do. God loves you because of who you are.\n</p>\n\n<blockquote class=\"prayer\">\n  <p>Dear God,</p>\n\n  <p>\n    Please help me to understand deep in my core just how much You love me so\n    that I may have power, together with all the Lord's holy people, to\n    grasp how wide and long and high and deep is the love of Christ (see\n    Ephesians 3:18). Please help me to understand and receive this love so that\n    I can be free to be me and not strive to earn what is already mine.\n  </p>\n\n  <p>In Jesus' name. Amen.</p>\n</blockquote>\n"
+        },
+        {
+          "id": 7,
+          "title": "Going deeper",
+          "content": "<h1>Going deeper</h1>\n\n<p>\nRead through Luke 15:11-24 and then take some time in quiet prayer to imagine the story again. Imagine yourself as the son or daughter returning, and God as the father. How does it make you feel to know that once you return to Him, you are loved completely and unconditionally, no matter what has happend to you or what you have done in your life?\n\n<p>Think again abut the ring, the robe and the sandals and what they symbolize. Remind yourself that, if you are a Christian, you already have them. Spend some time with God making a choice to use them in your life.\n\n<p>Read the rest of the story [Luke 15: 25-32]. Can you recognize anything of the older brother's attitude in you? In your relationship with God are you more like a son or a servant?\n<p>\n  The next session: Who are you? Before you watch the film, you might like to\n  think about how you would answer that question.\n</p>\n\n<a href=\"disciple:///videos/S2\" class=\"starter-film-link\">\n  Watch Session 2 Starter Film\n</a>"
+        }
+      ],
+      "key_points": []
+    },
+    {
+      "index": 2,
+      "number": 2,
+      "title": "How the story starts",
+      "paywall": false,
+      "video_id": "",
+      "nuggets": [
+        {
+          "id": 1,
+          "title": "Identity Theft",
+          "content": "<h1>Identity Theft</h1>\n\n<p>\n  Have you ever had your identity stolen? Can you imagine the difficulties it\n  would cause?\n</p>\n\n<p>\n  In todays session we will be looking at how, in the greatest case of\n  identity theft ever, your true identity was stolen from you, and how Jesus came\n  to give it back. It may change forever the way you see yourself\"\n</p>\n\n<p>\n Remember to watch the introductory video (you click on the image at the top of the page).<p>Or click on this link: <a href=\"disciple:///videos/S2\" class=\"starter-film-link\">\n  Watch Session 2 Starter Film\n</a>\n"
+        },
+        {
+          "id": 2,
+          "title": "A Full Life",
+          "content": "<h1>A Full Life</h1>\n\n<blockquote class=\"scripture\">\nI have come that they may have life, and have it to the full.\n\n  <cite>John 10:10</cite>\n</blockquote>\n\n<p>\n  It's a standard kids' question: \"Why did Jesus\n  come?\" And most Christians would respond by saying He came to save us\n  or to forgive our sins. Of course, they're right. But there was more to\n  it than that. Much more.\n</p>\n\n<p>\n  Jesus came to reconnect us to God so that we could have our spiritual life\n  back. By reconnecting to God we not only gain our significance, security, and\n  acceptance, we also regain our relationship with the one who says He is the\n  life (John 14:6). Eternal life is not just something we get when we die.\n  It's a different quality of life right now where we know who we are,\n  what we have, and how to make a difference.\n</p>\n"
+        },
+        {
+          "id": 3,
+          "title": "Believe It Or Not",
+          "content": "<h1>Believe It Or Not</h1>\n\n<p>\n  Rob's session about how we, as Christians, are now holy is such a\n  challenge, isn't it? I mean, you probably don't feel holy. And\n  when we think of a saint, we probably imagine someone like Mother Teresa or\n  St. Francis of Assisi. We don't think of ourselves because we are all\n  too aware of our failings. But the Bible could not be clearer:\n</p>\n\n<blockquote class=\"scripture\">\n  Paul, an apostle of Christ Jesus by the will of God; To God's <u>holy\n  people</u> in Ephesus, the faithful in Christ Jesus.\n\n  <cite>Ephesians 1:1</cite>\n</blockquote>\n\n<p>\n  If you are a Christian you are a saint, a holy one - not because of\n  what you have done - but because of what Jesus did.  And nothing you\n  have done or can ever do will change that fact.\n</p>\n"
+        },
+        {
+          "id": 4,
+          "title": "Brand New Through and Through",
+          "content": "<h1>Brand New Through and Through</h1>\n\n<blockquote class=\"scripture\">\n  Therefore, if anyone is in Christ, the new creation has come: The old has\n  gone, the new is here!\n\n  <cite>2 Corinthians 5:17</cite>\n</blockquote>\n\n<p>\n  Can you be partly a new creation and partly an old one? It certainly feels\n  like it doesn't it? I mean, we so often make the wrong choices and\n  don't feel very holy so it's easy to come to the conclusion\n  that, although we may be becoming a new creation, we're not there yet.\n</p>\n\n<p>\n  However, the truth is far more profound. The truth is that, if you're a\n  Christian, you are completely and utterly new. The moment you came to faith,\n  you were made new right to your very core. The person you were died and you\n  became someone new.\n</p>\n\n<p>\n  Knowing this is a crucial factor in making your life count because what you do\n  comes from who you are.\n</p>\n"
+        },
+        {
+          "id": 5,
+          "title": "Seriously?",
+          "content": "<h1>Seriously?</h1>\n\n<p>\n  Consider these unlikely guys: Moses was a murderer; Noah got drunk; Solomon\n  was a polygamist; David had sex with another man's wife and then killed\n  him; Jonah ran away from God because He didn't want to do what God told\n  him to; Aaron worshipped a false god; Peter denied Jesus not just once but\n  three times (on the same evening); Mary Magdalene was heavily demonized; and\n  Paul persecuted and imprisoned Christians. Yet look what God did through them!\n</p>\n\n<p>\n  God has an uncanny knack of taking the most unlikely people with the messiest\n  past and using them to do the most amazing things.\n</p>\n\n<p>\n  Don't let what has been prevent you from walking into what can be.\n  Later in <i>disciple</i> we will give you practical ways to draw a line under\n  your past and move forward in freedom. What would that look like for you?\n</p>\n"
+        },
+        {
+          "id": 6,
+          "title": "And The Verdict Is…",
+          "content": "<h1>And The Verdict Is...</h1>\n\n<blockquote class=\"scripture\">\n  Therefore, there is now no condemnation for those who are in Christ Jesus.\n\n  <cite>Romans 8:1</cite>\n</blockquote>\n\n<p>\n  So many of us walk around under a cloud of guilt and shame. We have that\n  secret thing we did - or do - and every time it comes to our\n  mind, a crushing feeling comes over us, punches us in the stomach, steals our\n  joy, and makes us feel unworthy to join in with what God's doing. But\n  it's based on a lie. There is now no condemnation for you. Now means\n  now. No means no!\n</p>\n\n<p>\n  What Jesus went through on the cross was horrific - it had to be\n  because it needed to cover all of our mistakes - and it was more than\n  enough to cover anything you have done. There really is no condemnation for\n  any Christian.\n</p>\n\n<p>\n  During <i>disciple</i> we will give you the tools to break free from guilt and\n  shame so you can walk on with your head held high and - far from using\n  your freedom to continue in sin - will go out there and do amazing\n  things for God.\n</p>\n"
+        },
+        {
+          "id": 7,
+          "title": "Going deeper",
+          "content": "<h1>Going deeper</h1>\n\n<p>\n In order to make sure you really get hold of these life-changing truths, find some time in the coming week to reflect on the following:<ul><li> Slowly read the \"Who am I in Jesus\" list from this session out loud. Let each one sink in before moving on to the next one.</li><li>Look up the Bible references alongside the items in the list</li><li>Do you accept that, if God says the things on the list are true of you, then they are true, no matter how you may feel?</li><li>If you are struggling with this, why not take some quiet time with God and ask him to show you how He sees you</li></ul></p><p> We recommend you continue to read the list out loud once or twice a day until you feel you have taken hold of who you really are in Jesus. It may take several weeks. Remember the list is on the App!\n<p>\n  The next session: A True Story.\n</p>\n\n<a href=\"disciple:///videos/S3\" class=\"starter-film-link\">\n  Watch Session 3 Starter Film\n</a>"
+        }
+      ],
+      "key_points": []
+    },
+    {
+      "index": 3,
+      "number": 3,
+      "title": "A true story",
+      "paywall": true,
+      "video_id": "",
+      "nuggets": [
+        {
+          "id": 1,
+          "title": "What Is Truth?",
+          "content": "<h1>What Is Truth?</h1>\n\n<p>\n  What's your answer?\n</p>\n\n<p>\n  In today's session we will be getting to grips with what truth is.\n  We'll also be wrestling with the question of whether there can be a\n  truth that is true for absolutely everyone or whether we each have our own\n  truth. What do you think?\n</p>\n\n<p>\n  Were also going to be trying to work out what faith is all about and how we\n  can keep growing in faith. It could be an outlook-changing experience.\n  Don't miss it!\n</p>\n"
+        },
+        {
+          "id": 2,
+          "title": "A Lamp in the Darkness",
+          "content": "<h1>A Lamp in the Darkness</h1>\n\n<p>\n  In the Starter Film, Dan made the point that if he decided he didn't\n  believe in gravity and was going to prove his belief by throwing himself off a\n  high place, there isn't a friend in the world who wouldn't want\n  to dissuade him from doing it, have another look at it here:\n</p>\n\n<a href=\"disciple:///videos/S3\" class=\"starter-film-link\">\n  Watch Session 3 Starter Film\n</a>\n\n<p>\n  And yet when it comes to matters of belief, we find it so hard to tell someone\n  that they are going in the wrong direction when the eternal consequences are\n  far worse. Why is that? We hope that <i>disciple</i> will give you the tools\n  you need to share your faith simply by being who you already are.\n</p>\n"
+        },
+        {
+          "id": 3,
+          "title": "The Truth, The Whole Truth And Nothing But The Truth",
+          "content": "<h1>The Truth, The Whole Truth And Nothing But The Truth</h1>\n\n<blockquote class=\"scripture\">\n  \"I am <u>the</u> way, and <u>the</u> truth, and <u>the</u> life; no one\n  comes to the Father but through Me.\"\n\n  <cite>John 14:6 (NASB)</cite>\n</blockquote>\n\n<p>\n  Jesus didn't say he was \"a\" truth or \"your\"\n  truth. He said he was \"the\" truth. And He is the only truth that\n  gives us life, security, significance, acceptance, freedom, and a relationship\n  with God. He is the only truth that can help us make sense of this world and\n  He is the only truth that will lead to us fulfilling the amazing plans that\n  God has for us so that our lives can count for something!\n</p>\n\n<p>\n  Knowing that, how do you feel about watching those you love wandering blindly\n  down dark alleys in their search for truth? Are you ready and willing to tell\n  them about this amazing love? Ask God to provide an opportunity.\n</p>\n"
+        },
+        {
+          "id": 4,
+          "title": "Hanging Out",
+          "content": "<h1>Hanging Out</h1>\n\n<blockquote class=\"scripture\">\n  God has said, \"Never will I leave you; never will I forsake\n  you.\"\n\n  <cite>Hebrews 13:5</cite>\n</blockquote>\n\n<p>\n  God is so jealous for us, just us - not what we do or how we behave.\n  The truth is that God just loves it when we spend time with Him simply because\n  we want to.\n</p>\n\n<p>\n  I (Jess) have a special place where I go to meet with God when I want to get\n  away and when I arrive it's as though God is waiting for me. In fact He\n  is waiting for me! He has said that He will never leave us or forsake us. We\n  don't need to struggle to find Him. Even if it doesn't feel like\n  it, He is there already, really looking forward to hanging out with us.\n</p>\n"
+        },
+        {
+          "id": 5,
+          "title": "Invisible",
+          "content": "<h1>Invisible</h1>\n\n<blockquote class=\"scripture\">\n  Where can I go from your Spirit? Where can I flee from your presence?\n   If I go up to the heavens, you are there; if I make my\n  bed in the depths, you are there. If I rise on the wings of the\n  dawn, if I settle on the far side of the sea, even there your hand will\n  guide me, your right hand will hold me fast.\n\n  <cite>Psalm 139:7-10</cite>\n</blockquote>\n\n<p>\n  David told us that faith grows when we hang out with God because by knowing\n  Him better, we come to trust Him more. Then in turn, we find the strength to\n  put our faith into action, which causes it to grow even more. \n</p>\n\n<p>\n  But sometimes it can feel like we are talking to an empty space. We know\n  we're not, however, because God is everywhere. We can't escape\n  His presence.\n</p>\n\n<p>\n  If it feels hard to connect, it can help to pull up an empty chair and imagine\n  that Jesus is sitting in it. Then simply chat to Him as you would to a friend.\n  After all, He really is there with you.\n</p>\n"
+        },
+        {
+          "id": 6,
+          "title": "The Trudge",
+          "content": "<h1>The Trudge</h1>\n\n<p>\n  Faith is simply making a choice to believe what God has told us is actually\n  true and living accordingly.\n</p>\n\n<p>\n  The real challenge comes when it doesn't feel true - and\n  that's especially relevant when life throws up an unexpected wildcard\n  of, for example, ill health, being hurt, or being let down by a friend or your\n  church. In those times we almost certainly won't feel like worshipping\n  God but when we choose to do that anyway, we are saying to Him, \"I\n  don't understand what's happening but I choose to believe that\n  what You say is true, that You are good, and that You are loving me through\n  this\".\n</p>\n\n<p>\n  When the tough times come, just keep walking in the right direction. Because\n  the truth is true even when it doesn't feel like it.\n</p>\n"
+        },
+        {
+          "id": 7,
+          "title": "Preview",
+          "content": "<h1>Preview</h1>\n\n<p>\n  In our next Starter Film Dan shares very honestly about his own struggle to\n  escape from a sin he was caught in.\n</p>\n\n<a href=\"disciple:///videos/S4\" class=\"starter-film-link\">\n  Watch Session 4 Starter Film\n</a>\n"
+        }
+      ],
+      "key_points": []
+    },
+    {
+      "index": 4,
+      "number": 4,
+      "title": "The story of the world",
+      "paywall": true,
+      "video_id": "E2,E3",
+      "nuggets": [
+        {
+          "id": 1,
+          "title": "Don’t Miss Out!",
+          "content": "<h1>Don't Miss Out!</h1>\n\n<p>\n  In today's session we will be looking at what the world is, how it\n  seeks to entrap us, and how it deceives us by giving us a false perception of\n  reality. Don't miss it - it's going to change the way you\n  see the world forever!\n</p>\n"
+        },
+        {
+          "id": 2,
+          "title": "Hand Picked…",
+          "content": "<h1>Hand Picked..</h1>\n\n<blockquote class=\"scripture\">\n  You did not choose me, but I chose you and appointed you so that you\n  might go and bear fruit - fruit that will last.\n\n  <cite>John 15:16a</cite>\n</blockquote>\n\n<p>\n  The world tells us we must perform well and accomplish a lot in order to be\n  significant. Yet as Christians we are already as significant as we possibly\n  could be. But if we fall for the lie, it will drive us into exhaustion as we\n  strive to meet a need that has already been met.\n</p>\n\n<p>\n  You can't earn what you already have! The truth is that before you were\n  even created, God chose you to be His, and appointed you to make an eternal\n  difference. You cannot get more significant than being hand-picked by the\n  Author of all creation. You don't need to achieve anything beyond what\n  you already have in Christ to be significant. And it is from a position of\n  knowing this that you can go out and bear fruit that will last.\n</p>\n"
+        },
+        {
+          "id": 3,
+          "title": "True Riches",
+          "content": "<h1>True Riches</h1>\n\n<blockquote class=\"scripture\">\n  For I am convinced that neither death nor life, neither angels nor\n  demons, neither the present nor the future, nor any\n  powers, neither height nor depth, nor anything else in all creation, will\n  be able to separate us from the love of God that is in Christ Jesus our\n  Lord.\n\n  <cite>Romans 8:38-39</cite>\n</blockquote>\n\n<p>\n  Isn't it crazy, when you think about it, that the world constantly\n  tells us that getting status and wealth will make us secure? Money and\n  popularity offer us no real security as we travel through life. The media are\n  quick to attack yesterday's star for today's mistake and, as\n  David said, money is worthless when we face ill health or war. As Christians\n  we don't need to strive for security because we already have it in the\n  unconditional love of God and nothing - nothing! - will ever separate us from\n  that love.\n</p>\n"
+        },
+        {
+          "id": 4,
+          "title": "Free To Be Me",
+          "content": "<h1>Free To Be Me</h1>\n\n<blockquote class=\"scripture\">\n  For he chose us in him before the creation of the world to be holy\n  and blameless in his sight. In love he predestined us for\n  adoption to sonship through Jesus Christ, in accordance with his\n  pleasure and will.\n\n  <cite>Ephesians 1:4-5</cite>\n</blockquote>\n\n<p>\n  We seem to spend our whole lives looking for acceptance from people. The way\n  we dress, the career we choose, and the things we watch and buy can all be\n  sculpted by this need to be accepted. But the truth is that as Christians we\n  are no longer spiritual orphans with a love deficit to fill. We are holy,\n  blameless, unconditionally loved children of God who were chosen before time\n  to be loved by our Heavenly Father, to be holy and blameless. This is a truth\n  that can be hard to grasp, but when we really  \"get it \" our lives are\n  radically transformed as we break free from the bondage of performance and\n  dance in the freedom of just being ourselves!\n</p>\n"
+        },
+        {
+          "id": 5,
+          "title": "Not Of This World",
+          "content": "<h1>Not Of This World</h1>\n\n<blockquote class=\"scripture\">\n  My prayer is not that you take them out of the world but that you protect them\n  from the evil one. They are not of the world, even as I am not of\n  it. Sanctify them by the truth; your word is truth.\n\n  <cite>John 17:15-17</cite>\n</blockquote>\n\n<p>\n  What does Jesus mean when he says that we are not of the world? Well, we are\n  no longer subject to its ruler - the devil - and we no longer need to buy into\n  its false promises or fall for its enticements because in Christ we already\n  have everything we need to overcome the world and its traps. But if we\n  don't know the truth, we can still be neutralized by it, which is why\n  Jesus also said that we need to be sanctified by the truth of God's\n  word. disciple is a journey to do just that as we unpack more of the truth\n  about who you really are, who God really is, and how to get free from anything\n  that is entangling you.\n</p>\n"
+        },
+        {
+          "id": 6,
+          "title": "A Biblical Lens",
+          "content": "<h1>A Biblical Lens</h1>\n\n<p>\n  In the West, our worldview tends to dismiss the supernatural. So, for example,\n  when we face a health issue, we tend to go to a doctor first and turn to God\n  only when that doesn't work. We start by assuming that the problem must\n  be entirely physical. In places like Africa, people tend to the other extreme\n  and might suspect the cause to be a curse or a spirit so the first port of\n  call is likely to be a witch doctor or a pastor.\n</p>\n\n<p>\n  Which worldview is right? Well neither. To have a true view of reality we need\n  to adopt the biblical worldview and take the whole of reality into account. We\n  are body, soul, and spirit. When we are ill, there is a place for both prayer\n  and doctors.\n</p>\n"
+        },
+        {
+          "id": 7,
+          "title": "Preview",
+          "content": "<h1>Preview</h1>\n\n<p>\n  Looking forward to our next session? Take a look at the Starter Film that sets\n  the scene by helping us think about lies we've believed that have\n  shaped us.\n</p>\n\n<a href=\"disciple:///videos/S5\" class=\"starter-film-link\">\n  Watch Session 5 Starter Film\n</a>\n"
+        }
+      ],
+      "key_points": []
+    },
+    {
+      "index": 5,
+      "number": 5,
+      "title": "The story of the flesh",
+      "paywall": true,
+      "video_id": "",
+      "nuggets": [
+        {
+          "id": 1,
+          "title": "Don’t Miss Out!",
+          "content": "<h1>Don't Miss Out!</h1>\n\n<p>\n  The flesh can play a powerful role in holding us back and preventing us from\n  becoming all that God has planned - but we don't have to give it\n  power over us. Don't miss this next session where we will unpack what\n  the flesh is, explain how it works, and give you the keys to overcome it.\n</p>\n"
+        },
+        {
+          "id": 2,
+          "title": "Perfection…",
+          "content": "<h1>Perfection..</h1>\n\n<blockquote class=\"scripture\">\n  And I am sure of this, that he who began a good work in you will bring it to\n  completion at the day of Jesus Christ.\n\n  <cite>Philippians 1:6</cite>\n</blockquote>\n\n<p>\n  As Rob said, we can easily fall into the trap of thinking that when we become\n  Christians everything will be perfect and we won't struggle anymore.\n  But the reality is that the flesh still fights to be heard and obeyed.\n  Overcoming it takes time and perseverance. We already have everything we need\n  to overcome it but we have to choose to use it! The good news is that if we\n  persevere, collaborate with God, and allow Him to work with us in this, He\n  will finish the work He has started!\n</p>\n"
+        },
+        {
+          "id": 3,
+          "title": "Spiritual",
+          "content": "<h1>Spiritual</h1>\n\n<blockquote class=\"scripture\">\n  The spiritual person judges all things, but is himself to be judged by no\n  one. \"For who has understood the mind of the Lord so as to\n  instruct him?\" But we have the mind of Christ.\n\n  <cite>1 Corinthians 2:15-16 ESV</cite>\n</blockquote>\n\n<p>\n  To be the spiritual person Jess described may seem like an impossible ideal\n  but it's where we need to get to if we really want to make our lives\n  count for something amazing. Don't be disheartened. Faith is a journey\n  and you will get there if you want to. There isn't a single person who\n  can't mature to be a spiritual person but it takes time and you need to\n  make the choice to travel towards it with God as He leads you one step at a\n  time.\n</p>\n"
+        },
+        {
+          "id": 4,
+          "title": "Your Choice",
+          "content": "<h1>Your Choice</h1>\n\n<p>\n  Jess said that there are three things that can slow us down or stop us from\n  becoming the spiritual people we want to be: not knowing the truth; being\n  deceived; and being held back by our past. disciple is like a power tool in\n  your Christian tool set. As we continue to journey together, we will bring you\n  key truth from God's word which will help you recognize where you are\n  being deceived. You will also be given the opportunity to go through the\n  <i>Steps To Freedom In Christ</i> which will help you get free from anything\n  that is holding you back. Many people find that they're catapulted\n  forward in their journey as they complete the course and walk on in the truth.\n  But it's important to recognize that you will only get out of it what you\n  put in. It all boils down to choices you make and no one else can make those\n  choices for you.\n</p>\n\n<blockquote class=\"prayer\">\n  <p>Father,</p>\n\n  <p>\n    Thank You that You have already given me everything I need to take hold of\n    my freedom and make my life count. I want to know the truth and live by it\n    so that I can become all that You have created me to be. Please continue to\n    reveal to me Your amazing truths and help me to persevere with disciple so\n    that I can overcome the world, the flesh, and the devil in my life and be\n    free to be the amazing person You have created me to be.\n  </p>\n\n  <p>In Jesus' name. Amen.</p>\n</blockquote>\n"
+        },
+        {
+          "id": 5,
+          "title": "Relationship",
+          "content": "<h1>Relationship</h1>\n\n<blockquote class=\"scripture\">\n  Live by the Spirit and you will not gratify the desires of the flesh.\n\n  <cite>Galatians 5:16</cite>\n</blockquote>\n\n<p>\n  Religion is about following rules and behaving a certain way and God hates\n  religion! Remember, He's not looking for slaves. He's looking\n  for sons and daughters - it's primarily about relationship.\n  Walking by the Spirit does not come from striving to  \"do \" the right\n  things or  \"behave \" in the right way. It's about spending time\n  with God, getting to know Him, and walking step by step with Him according to\n  what He says is true.\n</p>\n\n<p>\n  I wonder.. do you tend to go through your day as if you left God at home\n  when you get to your place of work or study? Sometimes it's helpful\n  just to take a moment every now and then throughout the day to acknowledge\n  that He's with you and invite Him to help you with what you're\n  doing.\n</p>\n"
+        },
+        {
+          "id": 6,
+          "title": "\"Feely\" Faith!",
+          "content": "<h1> \"Feely \" Faith!</h1>\n\n<p>\n  Having a Pentecostal/charismatic background I (Jess) remember thinking that\n  being spiritual was all about getting that  \"feeling \" or that\n   \"touch \", encountering God in a  \"butterfly moment \" where\n  His presence seemed tangible and palpable. When I couldn't feel Him, I\n  would wonder if I had done something wrong or question my walk with Him. Of\n  course, those moments are precious but they are not what make you a spiritual\n  person. In fact, sometimes God may withdraw them to teach you that faith is\n  about making a choice to believe the truth whatever you may feel. That can be\n  a challenge! Remember, God promises that He will never leave you (Deuteronomy\n  31:6) and that's the truth whatever you're feeling and whatever\n  is going on in your life right now.\n</p>\n"
+        },
+        {
+          "id": 7,
+          "title": "Preview",
+          "content": "<h1>Preview</h1>\n\n<p>\n  It's time to let you have a look at tomorrow's Starter Film\n  which is for any Christian who has ever felt they are not making as much\n  progress as they would like to. Enjoy!\n</p>\n\n<a href=\"disciple:///videos/S6\" class=\"starter-film-link\">\n  Watch Session 6 Starter Film\n</a>\n"
+        }
+      ],
+      "key_points": []
+    },
+    {
+      "index": 6,
+      "number": 6,
+      "title": "The story of the devil",
+      "paywall": true,
+      "video_id": "E4",
+      "nuggets": [
+        {
+          "id": 1,
+          "title": "Don’t Miss Out!",
+          "content": "<h1>Don't Miss Out!</h1>\n\n<p>\n  Who is the devil? Is he the being that Hollywood would have us believe he is?\n  Are we immune to his tactics as Christians, or do we need to fear him? Is he\n  even real or is he just a mythical being? Don't miss this week's\n  session.\n</p>\n"
+        },
+        {
+          "id": 2,
+          "title": "Really?",
+          "content": "<h1>Really?</h1>\n\n<blockquote class=\"scripture\">\n  We know that we are children of God, and that the whole world is under the\n  control of the evil one.\n\n  <cite>1 John 5:19</cite>\n</blockquote>\n\n<p>\n  It can be so hard for those of us who live in the West to accept that there is\n  a devil. It can seem quaint or even superstitious to accept that he is real.\n  After all there is no scientific test that can prove his existence. And yet\n  the Bible is clear that he is real and that he works hard to promote his\n  cause.\n</p>\n\n<p>\n  Once we accept the truth of the Bible that he is real, and understand who he\n  is and how he works, we can take back any rights we have given him to hold us\n  back, and leap forward on our journey. You will have the chance to do just\n  that during the <i>Steps To Freedom In Christ</i> session. Don't miss it!\n</p>\n"
+        },
+        {
+          "id": 3,
+          "title": "We Won!",
+          "content": "<h1>We Won!</h1>\n\n<blockquote class=\"scripture\">\n  And having disarmed the powers and authorities, he made a public spectacle of\n  them, triumphing over them by the cross.\n\n  <cite>Colossians 2:15</cite>\n</blockquote>\n\n<p>\n  From Genesis all the way through to Revelation, the Bible maps the battle\n  between good and evil, between the Christ and the antichrist, between the\n  father of lies and the Spirit of Truth. That war was won on the cross 2,000\n  years ago when Jesus not only defeated the devil but made a mockery of him.\n</p>\n\n<p>\n  But whilst the war is won, the battle still rages and will continue to rage\n  until we reach the times foretold in Revelation when he will be thrown into\n  the lake of fire (Revelation 20:10). Victory is ours already, but whilst we\n  don't need to be frightened of the devil, we do need to understand how\n  he operates so that we can stay free from his snares and walk with confidence\n  into everything God has called us to.\n</p>\n"
+        },
+        {
+          "id": 4,
+          "title": "Hollywood!",
+          "content": "<h1>Hollywood!</h1>\n\n<blockquote class=\"scripture\">\n  The one who was born of God keeps them safe, and the evil one cannot harm\n  them.\n\n  <cite>1 John 5:18</cite>\n</blockquote>\n\n<p>\n  Ever watched an occult horror movie? If you did, you may want to renounce it\n  when you go through the <i>Steps To Freedom In Christ</i> because they always\n  glorify Satan. The entire aim of a horror movie is to scare you by making you\n  think that Satan is all-powerful, dangerous, and someone to be feared. These\n  movies play into Satan's hands by reinforcing his lies, because Satan\n  loves it when we fear him. If you believe these lies it will hinder your walk\n  with God. But you are a child of God Himself and the evil one cannot harm you.\n  If you are tempted to fear the devil, try reading out 1 John 5:18 every day\n  for a month or so and let the truth settle in your mind.\n</p>\n"
+        },
+        {
+          "id": 5,
+          "title": "Fearless…",
+          "content": "<h1>Fearless..</h1>\n\n<p>\n  I (Jess) shared how I wandered off into the occult before Jesus found me.\n  Because of that, when my husband and I first came to faith in Jesus we\n  experienced an unusually severe battle until we resolved our spiritual\n  problems, and for a short time we had things going bump in the night.\n</p>\n\n<p>\n  One morning my young son who was about 4 asked me if I had slept alright. When\n  I asked why, he told me that something had gone bump in his room and he\n  wondered if it had gone bump in ours too. He then told me how he had ordered\n  it to get out in Jesus' name and it had immediately gone. He was only\n  about 4 and yet whatever it was HAD to leave. The reality is nothing scares a\n  demon more than a Christian who is free and knows who they are in Christ\n  - even if they are a child.\n</p>\n"
+        },
+        {
+          "id": 6,
+          "title": "So…",
+          "content": "<h1>So..</h1>\n\n<p>\n  So the devil is a real but defeated foe and he is subordinate to us. After all\n  we don't want to let Satan set the agenda and we have far more\n  important things to do for God.\n</p>\n\n<p>\n  We simply need to understand that all he has are lies which he will use to\n  tempt, accuse, and deceive us. Our defence is simply knowing the truth and\n  living a life right with God. If we do that we can switch on the light of\n  God's truth in any situation. We are not called to chase away the\n  darkness. We are called to turn on the light.\n</p>\n"
+        },
+        {
+          "id": 7,
+          "title": "Preview",
+          "content": "<h1>Preview</h1>\n\n<p>\n  Here's your link to the Starter Film that will kick off our next\n  session together.\n</p>\n\n<a href=\"disciple:///videos/S7\" class=\"starter-film-link\">\n  Watch Session 7 Starter Film\n</a>\n"
+        }
+      ],
+      "key_points": []
+    },
+    {
+      "index": 7,
+      "number": 7,
+      "title": "Truth and emotions",
+      "paywall": true,
+      "video_id": "",
+      "nuggets": [
+        {
+          "id": 1,
+          "title": "Don’t Miss Out!",
+          "content": "<h1>Don't Miss Out!</h1>\n\n<p>\n  Are feelings good or bad things? Today we will be learning about our emotions,\n  how they can be helpful, how they can misdirect us, and how we can get free\n  from negative emotions that drag us down. Don't miss it. This can be a\n  life changing session.\n</p>\n"
+        },
+        {
+          "id": 2,
+          "title": "Green Grass",
+          "content": "<h1>Green Grass</h1>\n\n<p>\n  Rob helpfully pointed out that if we base our decisions on our feelings they\n  can take us right off course. But it's tough not to follow how we feel\n  because we all crave happiness. Also the world, the flesh, and the devil do a\n  really good PR campaign called \"the grass is always greener\" to\n  persuade us that happiness is just a quick \"wrong\" choice away.\n</p>\n\n<p>\n  If we are going to stay on course to make our lives count, it's vital\n  that we base our decisions on the truth rather than on our feelings. Otherwise\n  we will spend a lot of time going round in circles rather than making a real\n  impact with our lives.\n</p>\n"
+        },
+        {
+          "id": 3,
+          "title": "Get Real",
+          "content": "<h1>Get Real</h1>\n\n<blockquote class=\"scripture\">\n   \"I the LORD search the heart and examine the mind. \"\n\n  <cite>Jeremiah 17:10a</cite>\n</blockquote>\n\n<p>\n  Sometimes we think that because God is, well, God, we can't say\n  anything negative to Him in case we offend Him. Really? After all, God already\n  knows what we are thinking and feeling. In fact it's vital that we get\n  real with God about how we feel - for the sake of our own emotional\n  health and the wellbeing of our relationships with others. Often it's\n  only after we get real with God that we see breakthrough in our hearts,\n  emotions, and the situation that is causing us such distress. God is big\n  enough to deal with our tantrums so let's get real with Him!\n</p>\n"
+        },
+        {
+          "id": 4,
+          "title": "Love",
+          "content": "<h1>Love</h1>\n\n<blockquote class=\"quote\">\n  \"I have found the paradox, that if you love until it hurts, there can\n  be no more hurt, only more love.\"\n\n  <cite>Mother Teresa</cite>\n</blockquote>\n\n<p>\n  Emotions are such a beautiful gift from God. Not only do they show us where\n  our belief system isn't in line with the truth, they enable us to\n  experience love. A world without emotion would be a world where we did not\n  experience love and a world without love would be an awful place.\n</p>\n"
+        },
+        {
+          "id": 5,
+          "title": "Aaaaargh…",
+          "content": "<h1>Aaaaargh..</h1>\n\n<blockquote class=\"scripture\">\n  \"But when he, the Spirit of truth, comes, he will guide you into\n  all the truth.\"\n\n  <cite>John 16:13a</cite>\n</blockquote>\n\n<p>\n  Whilst emotions are a gift from God, they can feel like a curse if we are\n  plagued by anxiety, fear, or anger. But the amazing news is that we\n  don't need to stay plagued by negative emotions. Negative emotions stem\n  from believing lies and the Holy Spirit (the Spirit of truth) is a master at\n  rooting out those lies so that we can replace them with the truth and walk\n  free. The <i>Steps To Freedom In Christ</i> is a great opportunity to work\n  with the Holy Spirit to uncover and root out those lies.\n</p>\n"
+        },
+        {
+          "id": 6,
+          "title": "The Great Exchange",
+          "content": "<h1>The Great Exchange</h1>\n\n<blockquote class=\"scripture\">\n  ..to provide for those who grieve in Zion - to bestow on them a\n  crown of beauty instead of ashes, the oil of joy instead of\n  mourning and a garment of praise instead of a spirit of despair They will\n  be called oaks of righteousness, a planting of the Lord for the\n  display of his splendour.\n\n  <cite>Isaiah 61:3</cite>\n</blockquote>\n\n<p>\n  Jesus offers to take all the pain and the trauma of our past and wash it away.\n  And whilst nothing can change what happened to us, by forgiving those who hurt\n  us, throwing out the lies we believe, and choosing to believe the truth, we\n  can be walk free from our past. No matter what has happened to you or what you\n  might have done, you too can have the oil of joy, a garment of praise and be\n  an oak of righteousness to display Christ's splendour. You really can.\n</p>\n"
+        },
+        {
+          "id": 7,
+          "title": "Preview",
+          "content": "<h1>Preview</h1>\n\n<p>\n  The Starter Film for our next session is a little different. It contains a\n  powerful story from Tamsin. You can see it here.\n</p>\n\n<a href=\"disciple:///videos/S8\" class=\"starter-film-link\">\n  Watch Session 8 Starter Film\n</a>\n"
+        }
+      ],
+      "key_points": []
+    },
+    {
+      "index": 8,
+      "number": 8,
+      "title": "Forgiving from the heart",
+      "paywall": true,
+      "video_id": "E4,E7",
+      "nuggets": [
+        {
+          "id": 1,
+          "title": "Don’t Miss Out!",
+          "content": "<h1>Don't Miss Out!</h1>\n\n<p>\n  Tamsin's testimony in the Starter Film yesterday shows the power of\n  forgiveness in even the most difficult of hurts. In today's session we\n  will try to understand what forgiveness really is, why it's so\n  important, and how we can all do it and find radical freedom from the past.\n  Don't miss it - it really is a key session!\n</p>\n"
+        },
+        {
+          "id": 2,
+          "title": "What You Have Received",
+          "content": "<h1>What You Have Received</h1>\n\n<blockquote class=\"scripture\">\n  Be kind and compassionate to one another, forgiving each other, just as in\n  Christ God forgave you.\n\n  <cite>Ephesians 4:32</cite>\n</blockquote>\n\n<p>\n  Forgiving people who have hurt us is really tough - we don't\n  pretend otherwise - but reflecting on just how much we have been\n  forgiven can help us get started. The truth is that, no matter how\n  \"good\" you feel you have been, without Jesus' sacrifice\n  on the cross we would all stand condemned. If you're still struggling\n  to make the choice to forgive someone when you come to the Steps To Freedom In\n  Christ, think about how much you have been forgiven and the extraordinary,\n  beautiful, and horrific thing Jesus did on the cross to ensure that you are\n  free from all condemnation (Romans 8:1).\n</p>\n"
+        },
+        {
+          "id": 3,
+          "title": "Tormented?",
+          "content": "<h1>Tormented?</h1>\n\n<blockquote class=\"scripture\">\n  \"'Shouldn't you have had mercy on your fellow servant\n  just as I had on you?' In anger his master handed him over to the\n  jailers to be tortured, until he should pay back all he owed. This is how my\n  heavenly Father will treat each of you unless you forgive your brother or\n  sister from your heart.\"\n\n  <cite>Matthew 18:33-35</cite>\n</blockquote>\n\n<p>\n  The reality is there is simply no other way. Peace, healing, and freedom from\n  our past can come only when we forgive those who have hurt or offended us. If\n  we hold on to unforgiveness and bitterness we become trapped in our past and\n  give the devil a right to attack us. It is for our sake that we must choose to\n  forgive others, not theirs.\n</p>\n"
+        },
+        {
+          "id": 4,
+          "title": "Trust",
+          "content": "<h1>Trust</h1>\n\n<blockquote class=\"scripture\">\n  Do not take revenge, my dear friends, but leave room for God's wrath,\n  for it is written: \"It is mine to avenge; I will repay,\" says\n  the Lord.\n\n  <cite>Romans 12:19</cite>\n</blockquote>\n\n<p>\n  Holding onto unforgiveness is like clutching a handful of thorns. The harder\n  we hold on, the more it hurts us, and yet to let go can seem like a huge step\n  because it means trusting God to put things right on our behalf. When we make\n  the choice to hand it over to Him and leave it with Him, God makes us a firm\n  promise: He will make sure that justice is done. He is faithful and He will do\n  it.\n</p>\n"
+        },
+        {
+          "id": 5,
+          "title": "Forgiveness Is A Choice",
+          "content": "<h1>Forgiveness Is A Choice</h1>\n\n<blockquote class=\"scripture\">\n  I can do all this through him who gives me strength.\n\n  <cite>Philippians 4:13</cite>\n</blockquote>\n\n<p>\n  Forgiveness is a choice that you definitely can make. So often we feel that we\n  can't do it but this is just a lie that we get fed by Satan who wants\n  us to hold onto our unforgiveness so that he has a legal right to hold us\n  back.\n</p>\n\n<blockquote class=\"prayer\">\n  <p>Father,</p>\n\n  <p>\n    It's so hard to forgive people for the things they have done to me\n    but I don't want to hold onto this unforgiveness, hurt and pain\n    anymore. Thank You that You promise to bring justice. I choose to believe\n    that I can do all things through Jesus who gives me strength. When I come to\n    the <i>Steps To Freedom In Christ</i>, thank You that You will give me the\n    strength to forgive the people who have hurt me so that I can walk free\n    from the pain they are causing me.\n  </p>\n\n  <p>In Jesus' name. Amen.</p>\n</blockquote>\n"
+        },
+        {
+          "id": 6,
+          "title": "Leaving Your Gift",
+          "content": "<h1>Leaving Your Gift</h1>\n\n<blockquote class=\"scripture\">\n   \"Therefore, if you are offering your gift at the altar and there\n  remember that your brother or sister has something against you, leave your\n  gift there in front of the altar. First go and be reconciled to them; then\n  come and offer your gift.\"\n\n  <cite>Matthew 5:23-24</cite>\n</blockquote>\n\n<p>\n  When we forgive someone else, we don't need to go to them - we\n  just need to go to God. But sometimes we are the ones who need to seek\n  forgiveness for something we have done. When you do this, make sure you have\n  first forgiven the other person if they have hurt you. Then speak to them\n  face-to-face, admit what you did, say clearly that it was wrong, and ask them,\n  \"Will you forgive me?\" Be careful not to blame them or justify\n  yourself. And be aware that they may not forgive you and you may not be\n  reconciled. You will, however, have fulfilled your responsibility and you will\n  be free.\n</p>\n"
+        },
+        {
+          "id": 7,
+          "title": "Preview",
+          "content": "<h1>Preview</h1>\n\n<p>\n  The Starter Film for our next session considers the question, \"How can\n  you really change?\" It's a powerful message and you can see it\n  here.\n</p>\n\n<a href=\"disciple:///videos/S9\" class=\"starter-film-link\">\n  Watch Session 9 Starter Film\n</a>\n"
+        }
+      ],
+      "key_points": []
+    },
+    {
+      "index": 9,
+      "number": 9,
+      "title": "Walking into the next chapter",
+      "paywall": true,
+      "video_id": "",
+      "nuggets": [
+        {
+          "id": 1,
+          "title": "Don’t Miss Out!",
+          "content": "<h1>Don't Miss Out!</h1>\n\n<p>\n  If you went through the <i>Steps To Freedom In Christ</i> and dealt with\n  everything that God showed you, then you are sitting reading this in freedom.\n  Fantastic! But how do we stay free? And how do we go on to grow now that we\n  have taken hold of our freedom? Today's session will show you how you\n  can go on walking in freedom and be radically transformed so that your life\n  can make an amazing eternal impact.\n</p>\n"
+        },
+        {
+          "id": 2,
+          "title": "It’s A Marathon Not A Sprint",
+          "content": "<h1>It's A Marathon Not A Sprint</h1>\n\n<blockquote class=\"scripture\">\n  Therefore, since we are surrounded by such a great cloud of witnesses, let us\n  throw off everything that hinders and the sin that so easily entangles. And\n  let us run with perseverance the race marked out for us, fixing our eyes on\n  Jesus, the pioneer and perfecter of faith.\n\n  <cite>Hebrews 12:1–2</cite>\n</blockquote>\n\n<p>\n  Freedom is like an on/off switch. You don't gradually become free. You\n  are either free or you're not. If you've been through the Steps\n  To Freedom In Christ, you've thrown off everything that hinders and the\n  sin that was entangling you.\n</p>\n\n<p>\n  Staying in that freedom takes perseverance. It's about working on the\n  lies we are vulnerable to and that takes time and effort. We need to commit\n  ourselves to making the right choices, doing our stronghold-busters, choosing\n  the truth, and taking time to hang out with God. Only you can make the choices\n  that lead to growth but God will help you as you do!\n</p>\n\n<blockquote class=\"prayer\">\n  <p>Father,</p>\n\n  <p>\n    Thank You for the freedom that I am experiencing today. I want to continue\n    to walk in the freedom that Jesus bought for me and I want to grow to become\n    more and more like Him so that I reflect Him in everything I say, think, and\n    do. I come before You today to commit to walking this out and pray that as I\n    travel on You will bring to my mind everything that I have learnt from your\n    word so that I can make the right choices.\n  </p>\n\n  <p>In Jesus' Name. Amen.</p>\n</blockquote>\n"
+        },
+        {
+          "id": 3,
+          "title": "Have You Started Yet?",
+          "content": "<h1>Have You Started Yet?</h1>\n\n<p>\n  Did you manage to construct your stronghold-buster? Have you started it? If\n  not, do make some time today to do it and start to read it out loud. There\n  simply is no short cut if you want to stay free and renew your mind. Those old\n  thought patterns have had decades to develop in your mind and they will take\n  effort to eradicate. The only way is to persevere and continually wash away\n  the lie with the fresh water of God's truth. To make it easy we have a\n  stronghold-buster section in the course book\n  - why don't you make use of it now?\n</p>\n"
+        },
+        {
+          "id": 4,
+          "title": "Don’t Fall For The Lie",
+          "content": "<h1>Don't Fall For The Lie</h1>\n\n<blockquote class=\"scripture\">\n  We know that our old sinful selves were crucified with Christ so that sin\n  might lose its power in our lives. We are no longer slaves to sin.\n\n  <cite>Romans 6:6</cite>\n</blockquote>\n\n<p>\n  Are you sitting there feeling that the 'thing' you need to deal\n  with is just too big to ever get over, that its ok for everyone else but your\n  case is different, somehow too much to overcome? Don't fall for these\n  lies. There is no one who is too ensnared or messed up to be completely set\n  free by Jesus. That after all is why Jesus came wasn't it? Not so that\n  people can cope with stuff but so that they can get over it and get free. You\n  have everything you need to walk free, you just need to choose to believe it\n  and take one step at a time.\n</p>\n"
+        },
+        {
+          "id": 5,
+          "title": "You Got it!",
+          "content": "<h1>You Got it!</h1>\n\n<blockquote class=\"scripture\">\n  Praise be to the God and Father of our Lord Jesus Christ, who has blessed us\n  in the heavenly realms with every spiritual blessing in Christ.\n\n  <cite>Ephesians 1:3</cite>\n</blockquote>\n\n<p>\n  How often do we hear people praying, \"God, take this addiction from\n  me,\" \"God, help me stop,\" as if they need a touch from\n  God to somehow erase their weakness or problem? I often think God must be sat\n  there with a loud hailer saying \"I did it already!\" because the\n  truth is that Jesus triumphed over sin, defeated Satan, freed us from\n  condemnation, gave us spiritual life and every other possible spiritual\n  blessing when He gave Himself for us on the cross and rose from the dead 2,000\n  years ago! There is nothing more He needs to do for you to walk in freedom.\n  You already have every - not nearly every! - spiritual blessing\n  in the heavenly realms. It's just a question of realizing it and\n  applying it.\n</p>\n"
+        },
+        {
+          "id": 6,
+          "title": "Like Christ",
+          "content": "<h1>Like Christ</h1>\n\n<blockquote class=\"scripture\">\n  Whoever says he abides in him ought to walk in the same way in which he\n  walked.\n\n  <cite>1 John 2:6</cite>\n</blockquote>\n\n<p>\n  Isn't it liberating to know that God focuses primarily on what we are\n  like rather than what we do? The world on the other hand seems programmed to\n  strive under a yoke of busy-ness, doing and perfectionism. It's little\n  wonder that burn out, mental breakdowns, anxiety, depression, and anger issues\n  are commonplace.\n</p>\n\n<p>\n  We are free not to join in with all that because we know that we are already\n  completely significant, secure, and accepted simply because of Whose we are.\n  Our only goal is to become more like Jesus which will happen by grace as we\n  grow in our relationship with Him and choose to believe the truth.\n</p>\n\n<p>\n  Paradoxically, as we focus on who we are and what we are like, what we do will\n  be good. Because what you do flows from who you are. A healthy tree will bear\n  good fruit.\n</p>\n"
+        },
+        {
+          "id": 7,
+          "title": "Preview",
+          "content": "<h1>Preview</h1>\n\n<p>\n  You are cordially invited to watch our very last Starter Film.. which is\n  all about God's invitation to us to make a difference.\n</p>\n\n<a href=\"disciple:///videos/S10\" class=\"starter-film-link\">\n  Watch Session 10 Starter Film\n</a>\n"
+        }
+      ],
+      "key_points": []
+    },
+    {
+      "index": 10,
+      "number": 10,
+      "title": "Action story",
+      "paywall": true,
+      "video_id": "E6",
+      "nuggets": [
+        {
+          "id": 1,
+          "title": "Don’t Miss Out!",
+          "content": "<h1>Don't Miss Out!</h1>\n\n<p>\n  So you're free and you have the tools to stay free..\n  What's next? What purpose does God have for the rest of your life? How\n  can you make a real difference? In this week's final session, we are\n  going to be looking at the amazing invitation God makes to you as one of His\n  precious disciples.\n</p>\n"
+        },
+        {
+          "id": 2,
+          "title": "Wow!",
+          "content": "<h1>Wow!</h1>\n\n<blockquote class=\"scripture\">\n  God has chosen to make known among the Gentiles the glorious riches of this\n  mystery, which is Christ in you, the hope of glory.\n\n  <cite>Colossians 1:27</cite>\n</blockquote>\n\n<p>\n  Just take a moment to think about this verse. Not only does it make clear that\n  God created and handpicked you to be His beloved child and disciple, it also\n  says that Christ is IN you. Literally in YOU! In fact the same power that\n  raised Jesus from the dead is in you. Is anything impossible for God? No of\n  course not - He's God.. and if He is in you, then surely\n  nothing that is according to His will or plans is impossible for you. Wow!\n</p>\n"
+        },
+        {
+          "id": 3,
+          "title": "Ambassador",
+          "content": "<h1>Ambassador</h1>\n\n<blockquote class=\"scripture\">\n  My prayer is not that you take them out of the world but that you protect them\n  from the evil one. They are not of the world, even as I am not of it.\n\n  <cite>John 17:15-16</cite>\n</blockquote>\n\n<p>\n  Ruth shared an amazing testimony: since she really came to understand who she\n  is and grew in her relationship with God, she no longer wants to go out and\n  get drunk anymore. It's so inspiring that she didn't just ditch\n  her non-Christian friends but instead now goes out with them without getting\n  drunk as Jesus' ambassador. What a powerful witness this must be to\n  them as she carries Jesus into her friendship group. As Christians\n  we're not called to closet ourselves away from the world - if we\n  do, how will the world ever know this Jesus who loves it so much?\n</p>\n"
+        },
+        {
+          "id": 4,
+          "title": "Pit Stop",
+          "content": "<h1>Pit Stop</h1>\n\n<blockquote class=\"scripture\">\n  Therefore, there is now no condemnation for those who are in Christ Jesus.\n\n  <cite>Romans 8:1</cite>\n</blockquote>\n\n<p>\n  How is that stronghold-buster going? Are you still doing it? Remember, it will\n  probably feel pointless until the point it breaks, but if you keep going it\n  WILL break so don't give up. If you have slipped in your walk please\n  don't worry. You know what to do: just go back to the <i>Steps To\n    Freedom In Christ</i>, pray through the relevant part and then simply keep\n  going and resume your stronghold-buster. God is not cross with you -\n  there really is no condemnation for you. If you have condemning thoughts in\n  your head, they are definitely not from Him so just ignore them.\n</p>\n\n<p>\n  If you're really struggling with temptation, why don't you share\n  your struggles with a pastor or a trusted Christian friend and ask them to\n  contact you at the end of every week to see how you got on? Knowing\n  you're going to have to be accountable can be enough to give you the\n  strength to say no when you're tempted.\n</p>\n"
+        },
+        {
+          "id": 5,
+          "title": "What A Mandate",
+          "content": "<h1>What A Mandate</h1>\n\n<p>\n  It's mind-blowing to think that Jesus' mandate is our mandate,\n  that He would choose us to be His disciples and carry His presence into the\n  world. But He doesn't want us to strive to make things happen. He just\n  wants us to be us, the real us. It's about walking unashamed of who we\n  are and allowing Jesus to shine out through us and then simply pointing people\n  to Jesus when they ask us why we have the life, hope, joy, faith, love,\n  compassion, and humility that they see growing in us and oozing out of us as\n  we surrender more and more to God.\n</p>\n"
+        },
+        {
+          "id": 6,
+          "title": "Key Truths",
+          "content": "<h1>Key Truths</h1>\n\n<p>\n  Today why don't you open one or all of the Truth Encounter lists on\n  this app and remind yourself of the mind-blowing truth of who you are in\n  Christ, the amazing things you can do, and who Father God really is? If one\n  truth really stands out to you, you could write it down and put it somewhere\n  you will see it regularly.\n</p>\n"
+        },
+        {
+          "id": 7,
+          "title": "Stay In Touch",
+          "content": "<h1>Stay In Touch</h1>\n\n<p>\n  It's the end of the course! But the beginning of a whole new chapter of\n  your life. Thank you for journeying with us through <i>disciple</i>.\n</p>\n\n<p>\n  We hope that your journey as a disciple of Jesus will continue as you go out\n  there and make a difference. Do keep doing your stronghold-buster and then why\n  not do another and another? Remember, doing the <i>Steps To Freedom In\n    Christ</i> once a year is a great spiritual tune up.\n</p>\n\n<p>\n  Do you want to join us in our adventure to help Christians become fruitful\n  disciples who make a difference? There are lots of ways you can get involved\n  with Freedom in Christ. You can find out more at\n  <a href=\"http://www.FICMinternational.org/partner\">www.FICMinternational.org/partner</a>.\n</p>\n"
+        }
+      ],
+      "key_points": []
+    }
+  ],
+  "extras": [
+    {
+      "number": 1,
+      "title": "Why believe the Bible?",
+      "picURL": "extra_1",
+      "webURL" : "",
+      "video_id": "E1",
+      "scripture": "2 Timothy 3:16-17",
+      "text": "All Scripture is God-breathed and is useful for teaching, rebuking, correcting and training in righteousness, so that the servant of God may be thoroughly equipped for every good work."
+    },
+    {
+      "number": 2,
+      "title": "The gift of sex part 1: Sex as God intended",
+      "picURL": "extra_2",
+      "webURL" : "",
+      "video_id": "E2",
+      "scripture": "Genesis 2:24-25",
+      "text": "That is why a man leaves his father and mother and is united to his wife, and they become one flesh. Adam and his wife were both naked, and they felt no shame."
+    },
+    {
+      "number": 3,
+      "title": "The gift of sex part 2: Pornography and masturbation",
+      "picURL": "extra_3",
+      "webURL" : "",
+      "video_id": "E3",
+      "scripture": "Galatians 5:16-17",
+      "text": "So I say, walk by the Spirit, and you will not gratify the desires of the flesh. For the flesh desires what is contrary to the Spirit, and the Spirit what is contrary to the flesh."
+    },
+    {
+      "number": 4,
+      "title": "The truth behind the occult",
+      "picURL": "extra_4",
+      "webURL" : "",
+      "video_id": "E4",
+      "scripture": "1 John 4: 2-3",
+      "text": "This is how you can recognize the Spirit of God: Every spirit that acknowledges that Jesus Christ has come in the flesh is from God, but every spirit that does not acknowledge Jesus is not from God. This is the spirit of the antichrist, which you have heard is coming and even now is already in the world."
+    },
+    {
+      "number": 5,
+      "title": "God, my Father",
+      "picURL": "extra_5",
+      "webURL" : "",
+      "video_id": "E5",
+      "scripture": "Ephesians 1: 5,7",
+      "text": "He predestined us for adoption to sonship through Jesus Christ, in accordance with his pleasure and will...In Him we have redemption through his blood, the forgiveness of sins, in accordance with the riches of God’s grace."
+    },
+    {
+      "number": 6,
+      "title": "Overcoming fear and taking a risk for Jesus",
+      "picURL": "extra_6",
+      "webURL" : "",
+      "video_id": "E6",
+      "scripture": "2 Timothy 1:7",
+      "text": "For the Spirit God gave us does not make us timid, but gives us power, love and self-discipline."
+    },
+    {
+      "number": 7,
+      "title": "Introduction to The Steps To Freedom In Christ",
+      "picURL": "extra_7",
+      "webURL" : "",
+      "video_id": "E7",
+      "scripture": "James 4:7",
+      "text": "Submit yourselves, then, to God. Resist the devil, and he will flee from you."
+    },
+    {
+      "number": 8,
+      "title": "Introduction to Disciple",
+      "picURL": "other_2",
+      "webURL" : "",
+      "video_id": "E8",
+      "scripture": "James 4:7",
+      "text": "Submit yourselves, then, to God. Resist the devil, and he will flee from you."
+    }
+  ],
+
+   "about_us":[
+
+
+    {
+      "id": 1,
+      "title": "About Freedom in Christ Ministries",
+      "author": "Steve Goss",
+      "video_id": "GRACE11",
+      "picURL" : "about_1",      
+      "picURL2" : "about_1",      
+      "webURL" : "",
+      "apps" : "FiC , DISC , GRACE",
+      "content": "<p>Hear from Steve Goss, International President of Freedom in Christ about our ministry.</p><p>Since our discipleship ministry began, over 30 years ago, Freedom in Christ has equipped millions of Christians worldwide to cultivate a lifestyle of unstoppable spiritual growth. Our purpose is to serve the Church and its leaders to bring transformation to every nation and generation by helping them equip all believers to live as free and fruitful disciples of Christ.</p><p>We are a fast-growing global community of staff and volunteers in 40+ countries. We have transformational results in almost every denomination of the church worldwide and our bestselling books are printed in 40+ languages.</p><p>We offer a unique approach to discipleship based on our three core principles of Truth, Turning, and Transformation. Visit us at <a href=freedominchrist.org>freedominchrist.org</a> for more information</p>"
+    },
+
+    {
+      "id": 2,
+      "title": "Our Purpose",
+      "author": "Freedom In Christ Ministries",
+      "video_id": "",
+      "picURL" : "about_2",
+      "picURL2" : "about_2_web",      
+      "content": "<p>Since our discipleship ministry began, over 30 years ago, Freedom in Christ has equipped millions of Christians worldwide to cultivate a lifestyle of unstoppable spiritual growth. &nbsp;Our purpose is&nbsp;<b>to serve the Church and its leaders to bring transformation to every nation and generation by helping them equip all believers to live as free and fruitful disciples of Christ.</b></p><p>We are a fast-growing global community of staff and volunteers in 40+ countries. We have transformational results in almost every denomination of the church worldwide and our bestselling books are printed in 40+ languages.&nbsp;</p><p>Our approach is based on simple, powerful, biblical principles and the leading of the Holy Spirit. It&rsquo;s thoroughly biblical.&nbsp;&nbsp;And it&rsquo;s proven to work.&nbsp;</p><p>We have testimonies from thousands of Christian leaders who&rsquo;ve achieved transformational results with Freedom In Christ.</p><p >We provide a self-guided process that&rsquo;s clearly explained and a network of local people who can &lsquo;train your trainers&rsquo; and support you every step of the way.</p><p>Plus it&rsquo;s infinitely transferable.&nbsp;Anyone can learn these principles and use them to grow and disciple others.&nbsp;This means that you can quickly and easily build a team to transform discipleship in your church.</p><p>We offer a unique approach to discipleship based on our three core principles of Truth, Turning, and Transformation.</p><p>Truth &ndash; our identity in Christ and the spiritual battle as one of Truth vs deception.</p><p>Turning &ndash; a practical process of genuine repentance &amp; belief.</p><p>Transformation &ndash; spiritual tools to live free &amp; fruitful in Christ.</p>",
+      "apps" : "FiC",
+      "webURL" : "https://www.freedominchrist.org/about-FICM"
+    },
+    {
+      "id": 3,
+      "title": "Donate",
+      "author": "Can you help us transform Discipleship all around the world?",
+      "video_id": "",
+      "picURL" : "donate_thumb",
+      "picURL2" : "donate",      
+      "webURL" : "https://www.freedominchrist.org/civicrm/contribute/transact?reset=1&id=138",
+      "apps" : "FiC , DISC , GRACE",
+      "content": "<p >God is working through Freedom in Christ to set every Christian free. Today&rsquo;s pressures&mdash;guilt, shame, fear, anxiety, and pride&mdash;often weigh us down. Millions of believers have used our tools to discover that the enemy&rsquo;s lies hold no power against God&rsquo;s grace. Imagine the gift of helping even one Christian live a more fearless, fruitful life in Christ, freed to follow Him and experience His rich love</span></p><p>We need your support to sustain our daily ministry, including writing and producing courses, developing resources, and translating them into multiple languages to reach more Christians than ever before. We&apos;re also creating apps and technical platforms to make interacting with us and accessing our materials easier than ever. This needs regular funding and your support will make a world of difference. Will you help support our ministry and expand our reach, as we partner with church leaders around the world to guide more people toward the fullness of life that God has for them? Donate regularly, once off, or for special projects or consider leaving a legacy to a ministry that may have transformed your life.&nbsp;</span></p>"
+    },
+    {
+      "id": 4,
+      "title": "Stronghold Buster",
+      "author": "Download our new Stronghold Buster App.",
+      "content":"<p>We are making some changes to our apps to take advantage of the newer features in the app operating systems (IOS/Apple and Android).</p><p>Sadly some of you lost your stronghold-busters when we had to update to the latest apps, as the architecture of the stronghold-busting feature was no longer supported. We are sorry for this but are delighted to let you know that we have just released a new standalone stronghold-busting app with additional functionality.</p><p>Click on the link below to download it.</p>" ,
+      "video_id": "",
+      "picURL" : "stronghold",
+      "picURL2" : "stronghold_buster",      
+      "webURL" : "https://play.google.com/store/apps/details?id=com.arrontaylor.stronghold.buster&pli=1"
+    },
+
+        {
+      "id": 5,
+      "title": "Steps To Freedom",
+      "author": "The Steps To Freedom in Christ",
+      "content": "<p>A kind and gentle prayer-based process to help you resolve spiritual and personal conflicts, and move forward in your walk with God.</p>",
+      "video_id": "STEPS0",
+      "picURL" : "steps",
+      "picURL2" : "steps",      
+      "webURL" : ""
+    },
+
+        {
+      "id": 6,
+      "title": "Want more Features?",
+      "author": "FiC App Team",
+      "content": "<p>At Freedom in Christ Ministries we are constantly seeking to improve our digital offerings. If you have comments or suggestions for improvement about this App, please feel free to submit these via our Feedback Form. Your input is appreciated.</p>",
+      "video_id": "",
+      "picURL" : "feedback",
+      "picURL2" : "feedback",      
+      "webURL" : "https://docs.google.com/forms/d/e/1FAIpQLSe2jQtbhar8npvwZ0DtUPjTBI74bJh1VlElPizLq6O2vGBWXA/viewform"
+    },
+    
+        {
+      "id": 10,
+      "title": "Freedom in Christ",
+      "author": "Equip the Church to make fruitful disciples",
+      "video_id": "E9",
+      "picURL" : "other_1",      
+      "picURL2" : "other_1",      
+      "webURL" : "",
+      "apps" : "DISC , GRACE",
+      "content": "<p>Now in its third edition and translated into well over 40 languages, the Freedom In Christ Course can transform the way you help Christians become fruitful disciples. </p><p>Focused on firstly establishing every Christian in the sure foundation of their identity in Jesus, it gives them the tools to break free and stay free from all that holds them back, and a strategy for ongoing transformation.</p>" 
+
+    },
+    {
+      "id": 11,
+      "title": "The Grace Course",
+      "author": "Grace and Freedom Project",
+      "video_id": "GRACE0",
+      "picURL" : "other_8",
+      "picURL2" : "other_8",      
+      "webURL" : "https://ficm.org.uk/grace" ,
+      "apps" : "FiC , DISC",
+      "content": "<p>The revised Grace Course is a guide to experiencing freedom and fruitfulness in Christ.</p><p>Its objective is to catapult Christians into fruitful living through reconnecting them with God&apos;s grace and a&nbsp;&nbsp;tool for churches to refocus their congregation. Available from Freedom in Christ and RightNow Media, this course is an 8-session, video-based small group study, with a Steps To Experiencing God&rsquo;s Grace ministry component.</p><p>The course consists of everything you need to help small groups understand the transforming principles of grace and it will help you immerse yourself in God&rsquo;s grace and connect with it in your heart, not just your head.&nbsp;&nbsp;It&rsquo;s not behaviour modification&mdash;it&rsquo;s a grace experience. &nbsp;</p><p>Including The Steps To Experiencing God&apos;s Grace, this course will help you resolve barriers to grace and Stronghold-Busting will help you experience long-lasting transformation.</p><p>Discover how grace frees you from:</p><ul >    <li>joyless religion</li>    <li>a low-grade fever of guilt</li>    <li>being defined by your past</li>    <li>feeling unable to say no</li>    <li>thinking you&rsquo;re not enough</li></ul><p>Here are some things you can expect from the Grace Course:</p><ul >    <li>Learn to rest in God. Discover the things He has for you to do&mdash;and do them just because you love Him, not out of any sense of &ldquo;having to&rdquo; or &ldquo;trying harder.&rdquo;</li>    <li>Embrace brokenness as an opportunity for growth and fruitfulness.</li>    <li>Discover the works He has prepared for you to do&mdash;and joyfully do them.</li>    <li>Make your life count. Be forever changed.</li></ul><p>A comprehensive Participant&apos;s and Leader&apos;s Guide are also available.</p>"      
+    },
+
+    {
+      "id": 12,
+      "title": "Keys to Health Wholeness and Fruitfulness",
+       "author": "Bringing together truth from the Bible and wisdom from the medical world",
+     "video_id": "KEY9",
+      "picURL" : "other_3",      
+      "picURL2" : "other_3",      
+      "webURL" : "",
+      "apps" : "FiC , DISC , GRACE",
+      "content": "<p>The Keys To Health, Wholeness, & Fruitfulness is a video-based discipleship course for every Christian. It brings together truth from the Bible and wisdom from the medical world to equip you to be a healthy, whole disciple of Jesus whose life really counts.</p><p> The objective of the course is to understand that good physical health is not an end in itself, but a means to help us be and do all that God intends for us as fruitful disciples of Jesus. A complete answer only comes if we look at the whole person, spirit, mind and body, and lasting healing is the result of uncovering the root cause of a particular problem and resolving it.</p>" 
+    }, 
+    {
+      "id": 13,
+      "title": "Freed To Lead",
+      "author": "Become the leader God has created you to be.",
+      "video_id": "LEAD0",
+      "picURL" : "other_4",      
+      "picURL2" : "other_4",      
+      "webURL" : "",
+      "apps" : "FiC , DISC , GRACE",
+      "content": "<p>At a time of complex leadership challenges in Churches, where Christian leaders are facing unprecedented obstacles, and struggle to balance corporate and Christian leadership styles, Freedom in Christ has developed Freed To Lead - a powerful 10-week discipleship course for Christians who are called to leadership.</p><p>Freed to Lead examines how being rooted in Christ is the true foundation for all Christians with responsibility for leading or managing others.</p>"
+    },
+    {
+      "id": 14,
+      "title": "Lightbringers",
+      "author": "For 5-7s And 8-11s",
+      "video_id": "LIGHT0",
+      "picURL" : "other_5",      
+      "picURL2" : "other_5",      
+      "webURL" : "",
+      "apps" : "FiC , DISC , GRACE",
+      "content": "<p>The Lightbringers is a fantastic resource to help children understand their identity in Christ and show them how to view the rest of the world through that lens. It helps children come to know who they are in Jesus and equips them as they grow into young adults. An interactive and immersive course, with videos and action-packed stories that bring Biblical truth to life.</p><p>The course incorporates all three of the Freedom In Christ approaches, including an interactive children's version of The Steps To Freedom In Christ called The Lightbringers Trail</p>"
+    } ,
+    {
+      "id": 15,
+      "title": "TRANSFORM",
+      "author": "Specifically designed for church leaders",
+      "video_id": "",
+      "picURL" : "other_6",      
+      "picURL2" : "other_6",      
+      "webURL" : "https://www.ficm.org.uk/transform", 
+      "apps" : "FiC , DISC , GRACE",
+      "content": "<P>TRANSFORM is specifically designed for church leaders and leaders of Christian organizations who are passionate about leading a church or ministry of fruitful disciples that make a major impact for the Kingdom of God. An intentional and structured Christian leadership programme.</P><P>TRANSFORM will strengthen your existing ministry and help make it even more effective. It will help you ground your leadership firmly in the Biblical principles of identity, freedom, and transformation and equip you to go even deeper into God personally, confident that this will lead to greater influence and fruitfulness in your life and ministry.</P>"
+    },
+
+    {
+      "id": 16,
+      "title": "Equiping Leaders",
+      "author": "Specifically designed for church leaders",
+      "video_id": "",
+      "picURL" : "other_7",      
+      "picURL2" : "other_7",      
+      "webURL" : "https://www.freedominchrist.org/about-FICM",
+      "apps" : "FiC , DISC , GRACE",
+      "content": "<P>Our discipleship resources provide a proven roadmap to spiritual maturity that releases disciples to make disciples. We have testimonies from thousands of Christian leaders who have achieved transformational results with Freedom In Christ. We do not offer a “one size fits all” approach but love to help each church team identify their specific calling and gifting, we can then select the tools that are appropriate for their situation. We have courses for Christians at every stage of their journey, and dedicated courses for Leaders, Disciples and Young People We provide a self-guided process that’s clearly explained and, in many countries, a network of local people who can ‘train your trainers’ and support you every step of the way. Our discipleship approach is infinitely transferable. Anyone can learn these principle and use them to grow and disciple others. This means that you can quickly and easily build a team to transform discipleship in your church.</P>"
+    }
+    
+  ],
+
+  "truth_encounter_lists": [
+    {
+      "id": 1,
+      "title": "My Father God",
+      "content": "<h1>My Father God</h1>\n\n<div class=\"truth-encounter-list\">\n  <ul>\n    <li>\n      <p>I renounce the lie that my Father God is distant or not interested in me.</p>\n      <p>I joyfully accept the truth that my Father God is intimate and involved <cite>(see Psalms 139:1-18)</cite>.</p>\n    </li>\n\n    <li>\n      <p>I renounce the lie that my Father God is insensitive and uncaring.</p>\n      <p>I joyfully accept the truth that my Father God is kind and compassionate <cite>(see Psalms 103:8-14)</cite>.</p>\n    </li>\n\n    <li>\n      <p>I renounce the lie that my Father God is strict and demanding.</p>\n      <p>I joyfully accept the truth that my Father God is accepting and filled with joy and love <cite>(see Romans 15:7; Zephaniah 3:17)</cite>.</p>\n    </li>\n\n    <li>\n      <p>I renounce the lie that my Father God is passive and cold.</p>\n      <p>I joyfully accept the truth that my Father God is warm and affectionate <cite>(see Isaiah 40:11; Hosea 11:3-4)</cite>.</p>\n    </li>\n\n    <li>\n      <p>I renounce the lie that my Father God is absent or too busy for me.</p>\n      <p>I joyfully accept the truth that my Father God is always with me and eager to be with me <cite>(see Hebrews 13:5; Jeremiah 31:20; Ezekiel 34:11-16)</cite>.</p>\n    </li>\n\n    <li>\n      <p>I renounce the lie that my Father God is impatient, angry or never satisfied with what I do.</p>\n      <p>I joyfully accept the truth that my Father God is patient and slow to anger and delights in those who put their hope in His unfailing love <cite>(see Exodus 34:6; 2 Peter 3:9; Psalms 147:11)</cite>.</p>\n    </li>\n\n    <li>\n      <p>I renounce the lie that my Father God is mean, cruel or abusive.</p>\n      <p>I joyfully accept the truth that my Father God loves me and is gentle and protective <cite>(see Jeremiah 31:3; Isaiah 42:3; Psalms 18:2)</cite>.</p>\n    </li>\n\n    <li>\n      <p>I renounce the lie that my Father God is trying to take all the fun out of life.</p>\n      <p>I joyfully accept the truth that my Father God is trustworthy and wants to give me a full life; His will is good, perfect and acceptable for me <cite>(see Lamentations 3:22-23; John 10:10; Romans 12:1-2)</cite>.</p>\n    </li>\n\n    <li>\n      <p>I renounce the lie that my Father God is controlling or manipulative.</p>\n      <p>I joyfully accept the truth that my Father God is full of grace and mercy, and gives me the freedom to fail <cite>(see Hebrews 4:15-16; Luke 15:11-16)</cite>.</p>\n    </li>\n\n    <li>\n      <p>I renounce the lie that my Father God is condemning or unforgiving.</p>\n      <p>I joyfully accept the truth that my Father God is tender-hearted and forgiving; His heart and arms are always open to me <cite>(see Psalms 130:1-4; Luke 15:17-24)</cite>.</p>\n    </li>\n\n    <li>\n      <p>I renounce the lie that my Father God is nit-picking or a demanding perfectionist.</p>\n      <p>I joyfully accept the truth that my Father God is committed to my growth and proud of me as His growing child <cite>(see Romans 8:28-29; Hebrews 12:5-11; 2 Corinthians 7:14)</cite>.</p>\n    </li>\n\n    <li>\n      <p>I am the apple of His eye! <cite>(see Deuteronomy 32:9-10)</cite></p>\n    </li>\n  </ul>\n</div>\n" ,
+      "apps" : "DISC"
+
+    },
+    {
+      "id": 2,
+      "title": "The Can Do List",
+      "content": "<h1>The Can Do List</h1>\n\n<div class=\"truth-encounter-list\">\n  <ol>\n    <li>Why should I say I can't do it when the Bible says I can do all things through Jesus who gives me strength? <cite>(see Philippians 4:13)</cite></li>\n    <li>Why should I lack when I know that God shall supply all my needs according to His riches in glory in Jesus? <cite>(see Philippians 4:19)</cite></li>\n    <li>Why should I be afraid when the Bible says God has not given me a Spirit of fear, but one of power, love and a sound mind? <cite>(see 2 Timothy 1:7)</cite></li>\n    <li>Why should I lack faith to complete my calling knowing that God has given to me a measure of faith? <cite>(see Romans 12:3)</cite></li>\n    <li>Why should I be weak when the Bible says that God is the strength of my life and that I will be strong and take action because I know Him? <cite>(see Psalms 27:1; Daniel 11:32)</cite></li>\n    <li>Why should I allow Satan supremacy in my life when He that is in me is greater than he that is in the world? <cite>(see 1 John 4:4)</cite></li>\n    <li>Why should I accept defeat when the Bible says that God always leads me in victory? <cite>(see 2 Corinthians 2:14)</cite></li>\n    <li>Why should I be without wisdom when Christ became wisdom to me from God and God gives me wisdom generously when I ask Him for it? <cite>(see 1 Corinthians 1:30; James 1:5)</cite></li>\n    <li>Why should I be depressed when I can remember God's loving kindness, compassion and faithfulness and have hope? <cite>(see Lamentations 3:21-23)</cite></li>\n    <li>Why should I worry when I can cast all my anxiety on Jesus who cares for me? <cite>(see 1 Peter 5:7)</cite></li>\n    <li>Why should I ever be in bondage when I know that, where the Spirit of God is, there is freedom? <cite>(see 2 Corinthians 3:17; Galatians 5:1)</cite></li>\n    <li>Why should I feel guilty when the Bible says I am not guilty because I am in Jesus? <cite>(see Romans 8:1)</cite></li>\n    <li>Why should I feel alone when Jesus said He is with me always and He will never leave me or let me go? <cite>(see Matthew 28:20; Hebrews 13:5)</cite></li>\n    <li>Why should I feel cursed or that I am the victim of bad luck when the Bible says that Jesus redeemed me from the curse of the law that I can receive His Spirit? <cite>(see Galatians 3:13-14)</cite></li>\n    <li>Why should I be discontent when, like Paul, I can learn to be content in all my circumstances? <cite>(see Philippians 4:11)</cite></li>\n    <li>Why should I feel worthless when Jesus became sin for me so that I could become the righteousness of God in Him? <cite>(see 2 Corinthians 5:21)</cite></li>\n    <li>Why should I have a persecution complex knowing that nobody can be against me when God is for me? <cite>(see Romans 8:31)</cite></li>\n    <li>Why should I be confused when God is the author of peace and gives me knowledge through the Holy Spirit who lives in me? <cite>(see 1 Corinthians 14:33; 1 Corinthians 2:12)</cite></li>\n    <li>Why should I feel like a failure when I am a conqueror in all things through Jesus? <cite>(see Romans 8:37)</cite></li>\n    <li>Why should I let the pressures of life bother me when I can take courage knowing that Jesus has overcome the world and its tribulations? <cite>(see John 16:33)</cite></li>\n  </ol>\n</div>\n" ,
+      "apps" : "DISC"
+    },
+    {
+      "id": 3,
+      "title": "Who I am in Jesus",
+      "content": "<h1>Who I am in Jesus</h1>\n\n<div class=\"truth-encounter-list\">\n  <section>\n    <header>\n      <p>I renounce the lie that I am rejected, unloved, dirty, or shameful because in Jesus I am completely <strong>ACCEPTED</strong>.</p>\n      <p>God says that:</p>\n    </header>\n\n    <ul>\n      <li>I am God's child <cite>(see John 1:12)</cite></li>\n      <li>I am Jesus' friend <cite>(see John 15:15)</cite></li>\n      <li>I have been justified <cite>(see Romans 5:1)</cite></li>\n      <li>I am united with God, and I am one spirit with Him <cite>(see 1 Corinthians 6:17)</cite></li>\n      <li>I have been bought with a price: I belong to God. <cite>(see 1 Corinthians 6:19-20)</cite></li>\n      <li>I am a member of Jesus' Body <cite>(see 1 Corinthians 12:27)</cite></li>\n      <li>I am a saint, a holy one <cite>(see Ephesians 1:1)</cite></li>\n      <li>I have been adopted as God's child <cite>(see Ephesians 1:5)</cite></li>\n      <li>I have direct access to God through the Holy Spirit <cite>(see Ephesians 2:18)</cite></li>\n      <li>I have been forgiven of all my sins <cite>(see Colossians 1:14)</cite></li>\n      <li>I am complete in Jesus <cite>(see Colossians 2:10)</cite></li>\n    </ul>\n  </section>\n\n  <section>\n    <header>\n      <p>I renounce the lie that I am guilty, unprotected, alone, or abandoned because in Jesus I am totally <strong>SECURE</strong>.</p>\n      <p>God says that:</p>\n    </header>\n\n    <ul>\n      <li>I am free forever from condemnation <cite>(see Romans 8:1-2)</cite></li>\n      <li>I am assured that all things work together for good <cite>(see Romans 8:28)</cite></li>\n      <li>I am free from all condemning charges against me <cite>(see Romans 8:31-34)</cite></li>\n      <li>I cannot be separated from the love of God <cite>(see Romans 8:35-39)</cite></li>\n      <li>I have been established, anointed and sealed by God <cite>(see 2 Corinthians 1:21-22)</cite></li>\n      <li>I am confident that the good work God has begun in me will be perfected <cite>(see Philippians 1:6)</cite></li>\n      <li>I am a citizen of heaven <cite>(see Philippians 3:20)</cite></li>\n      <li>I am hidden with Jesus in God <cite>(see Colossians 3:3)</cite></li>\n      <li>I have not been given a spirit of fear, but of power, love and a sound mind <cite>(see 2 Timothy 1:7)</cite></li>\n      <li>I can find grace and mercy to help me when I need it <cite>(see Hebrews 4:16)</cite></li>\n      <li>I am born of God and the evil one cannot touch me <cite>(see 1 John 5:18)</cite></li>\n    </ul>\n  </section>\n\n  <section>\n    <header>\n      <p>I renounce the lie that I am worthless, inadequate, helpless, or hopeless because in Jesus I am deeply <strong>SIGNIFICANT</strong>.</p>\n      <p>God says that:</p>\n    </header>\n\n    <ul>\n      <li>I am the salt and light of the world <cite>(see Matthew 5:13-14)</cite></li>\n      <li>I am a branch of the true vine, Jesus, a channel of His life <cite>(see John 15:1-5)</cite></li>\n      <li>I have been chosen and appointed by God to bear fruit <cite>(see John 15:16)</cite></li>\n      <li>I am a personal, Spirit empowered witness of Christ <cite>(see Acts 1:8)</cite></li>\n      <li>I am a temple of God <cite>(see 1 Corinthians 3:16)</cite></li>\n      <li>I am a minister of reconciliation for God <cite>(see 2 Corinthians 5:17-21)</cite></li>\n      <li>I am God's fellow worker <cite>(see 2 Corinthians 6:1)</cite></li>\n      <li>I am seated with Jesus in the heavenly realms <cite>(see Ephesians 2:6)</cite></li>\n      <li>I am God's workmanship, created for good works <cite>(see Ephesians 2:10)</cite></li>\n      <li>I can come to God with freedom and confidence <cite>(see Ephesians 3:12)</cite></li>\n      <li>I can do all things through Christ who strengthens me! <cite>(see Philippians 4:13)</cite></li>\n      <li>I am not the great \"I Am\", but by the grace of God I am what I am <cite>(see Exodus 3:14; John 8:24, 28, 58; 1 Corinthians 15:10)</cite></li>\n    </ul>\n  </section>\n</div>\n" ,
+      "apps" : "DISC"
+    }
+  ]
+}
